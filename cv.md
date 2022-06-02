@@ -4,4 +4,4 @@
 * It's my list why I decided to learn JS:
     * Couse it's interesting
     * It give you opportunity to understand how work any website/desktop app  and etc.
-    * Couse my BF work FE developer )
+    * Couse my friend work FE developer )
